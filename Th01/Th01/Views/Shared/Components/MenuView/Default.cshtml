@@ -1,0 +1,23 @@
+﻿@model IList<Menu>
+
+@foreach (var menu in Model.Where(m => m.Levels == 1).OrderBy(n => n.MenuOrder))
+{
+    var Pid = menu.MenuID;
+    var Smenu = Model.Where(p => p.ParentID == Pid).OrderBy(p => p.MenuOrder).ToList();
+    @if (Smenu.Count == 0)
+    {
+        <a href="~/index.html" class="nav-item nav-link">@menu.MenuName</a>
+    }
+    else
+    {
+        <div class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">@menu.MenuName</a>
+            <div class="dropdown-menu m-0">
+                @foreach (var smn in Smenu)
+                {
+                    <a href="~/blog.html" class="dropdown-item">@smn.MenuName</a>
+                }
+            </div>
+        </div>
+    }
+}

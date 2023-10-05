@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PUDd32QPbGFLyiGR6lp6/7evcXYobnI1lBjqmgyavuw=",
+  "Hash": "QMU7O6ROZwc2eiM2VjQ0m6NumbzauXKecSE/fVr8oYI=",
   "Source": "TH01",
   "BasePath": "_content/TH01",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TH01\\wwwroot",
       "Source": "TH01",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TH01.styles.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TH01.styles.css",
       "SourceId": "TH01",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TH01",
       "RelativePath": "TH01.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TH01.styles.css"
+      "OriginalItemSpec": "E:\\Th01\\Th01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TH01.styles.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css",
       "SourceId": "TH01",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TH01",
       "RelativePath": "TH01.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,81 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Th01\\Th01\\TH01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\about.html",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "about.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\about.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\blog - Copy.html",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "blog - Copy.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blog - Copy.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\blog.html",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "blog.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blog.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\contact.html",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "contact.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\contact.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\css\\style.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\css\\style.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -85,10 +153,44 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\about.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\detail.html",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "detail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\detail.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\feature.html",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "feature.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\feature.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\about.jpg",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -102,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\animanshaker.webp",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\animanshaker.webp",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/animanshaker.webp",
       "AssetKind": "All",
@@ -119,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\animanshaker.webp"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\blog-1.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\blog-1.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/blog-1.jpg",
       "AssetKind": "All",
@@ -136,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\blog-2.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\blog-2.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/blog-2.jpg",
       "AssetKind": "All",
@@ -153,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\blog-3.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\blog-3.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/blog-3.jpg",
       "AssetKind": "All",
@@ -170,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\carousel-1.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\carousel-1.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/carousel-1.jpg",
       "AssetKind": "All",
@@ -187,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\carousel-2.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\carousel-2.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/carousel-2.jpg",
       "AssetKind": "All",
@@ -204,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\feature.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\feature.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/feature.jpg",
       "AssetKind": "All",
@@ -221,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\team-1.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\team-1.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/team-1.jpg",
       "AssetKind": "All",
@@ -238,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\team-2.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\team-2.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/team-2.jpg",
       "AssetKind": "All",
@@ -255,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\team-3.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\team-3.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/team-3.jpg",
       "AssetKind": "All",
@@ -272,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\testimonial-1.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\testimonial-1.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -289,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\testimonial-2.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\testimonial-2.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -306,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\testimonial-3.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\testimonial-3.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/testimonial-3.jpg",
       "AssetKind": "All",
@@ -323,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\testimonial-4.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\testimonial-4.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/testimonial-4.jpg",
       "AssetKind": "All",
@@ -340,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\user.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\user.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/user.jpg",
       "AssetKind": "All",
@@ -357,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\user.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\vendor-1.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\vendor-1.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/vendor-1.jpg",
       "AssetKind": "All",
@@ -374,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendor-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\vendor-2.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\vendor-2.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/vendor-2.jpg",
       "AssetKind": "All",
@@ -391,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendor-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\vendor-3.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\vendor-3.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/vendor-3.jpg",
       "AssetKind": "All",
@@ -408,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendor-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\vendor-4.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\vendor-4.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/vendor-4.jpg",
       "AssetKind": "All",
@@ -425,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendor-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\vendor-5.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\vendor-5.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/vendor-5.jpg",
       "AssetKind": "All",
@@ -442,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendor-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\vendor-6.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\vendor-6.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/vendor-6.jpg",
       "AssetKind": "All",
@@ -459,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendor-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\vendor-7.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\vendor-7.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/vendor-7.jpg",
       "AssetKind": "All",
@@ -476,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendor-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\vendor-8.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\vendor-8.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/vendor-8.jpg",
       "AssetKind": "All",
@@ -493,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendor-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\img\\vendor-9.jpg",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\img\\vendor-9.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "img/vendor-9.jpg",
       "AssetKind": "All",
@@ -510,10 +612,27 @@
       "OriginalItemSpec": "wwwroot\\img\\vendor-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\js\\main.js",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\index.html",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\js\\main.js",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -527,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -544,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -561,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\counterup\\counterup.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/counterup/counterup.min.js",
       "AssetKind": "All",
@@ -578,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\counterup\\counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -595,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -612,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -629,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -646,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -663,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -680,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -697,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -714,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -731,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -748,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -765,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -782,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -799,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -816,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -833,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\wow\\wow.js",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\wow\\wow.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/wow/wow.js",
       "AssetKind": "All",
@@ -850,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
     },
     {
-      "Identity": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\lib\\wow\\wow.min.js",
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\lib\\wow\\wow.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trana\\source\\repos\\TH01\\TH01\\wwwroot\\",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/wow/wow.min.js",
       "AssetKind": "All",
@@ -865,6 +984,142 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\LICENSE.txt",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LICENSE.txt"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\price.html",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "price.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\price.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\quote.html",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "quote.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\quote.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\READ-ME.txt",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "READ-ME.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\READ-ME.txt"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\service.html",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "service.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\service.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\startup-website-template.jpg",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "startup-website-template.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\startup-website-template.jpg"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\team.html",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "team.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\team.html"
+    },
+    {
+      "Identity": "E:\\Th01\\Th01\\TH01\\wwwroot\\testimonial.html",
+      "SourceId": "TH01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Th01\\Th01\\TH01\\wwwroot\\",
+      "BasePath": "_content/TH01",
+      "RelativePath": "testimonial.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\testimonial.html"
     }
   ]
 }

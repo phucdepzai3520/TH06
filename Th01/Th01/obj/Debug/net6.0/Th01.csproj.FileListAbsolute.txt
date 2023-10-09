@@ -107,3 +107,4 @@ E:\Th01\Th01\TH01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Crypt
 E:\Th01\Th01\TH01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\Th01\Th01\TH01\obj\Debug\net6.0\TH01.csproj.AssemblyReference.cache
 E:\Th01\Th01\TH01\obj\Debug\net6.0\TH01.csproj.CopyComplete
+E:\Th01\Th01\TH01\bin\Debug\net6.0\SlugGenerator.dll

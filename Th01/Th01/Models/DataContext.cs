@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TH01.Areas.Admin.Models;
+
 namespace TH01.Models
 {
     public class DataContext : DbContext
@@ -8,5 +10,7 @@ namespace TH01.Models
         }
         public DbSet<Menu> Menus { get; set; }
         public DbSet<Post> Posts { get; set; }
+        public DbSet<view_Post_Menu> PostMenus { get; set; }
+        public DbSet<AdminMenu> AdminMenus { get; set; }
     }
 }

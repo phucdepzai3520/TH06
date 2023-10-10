@@ -24,20 +24,39 @@ namespace TH01.Controllers
         {
             return View();
         }
+
         [Route("/post-{slug}-{id:long}.html", Name = "Details")]
         public IActionResult Details(long? id)
         {
-            if (id == null) 
+            if (id == null)
             {
                 return NotFound();
             }
             var post = _context.Posts
                 .FirstOrDefault(m => (m.PostID == id) && (m.IsActive == true));
-            if (post == null) 
+            if (post == null)
             {
                 return NotFound();
             }
             return View(post);
+        }
+
+        [Route("/list-{slug}-{id:int}.html", Name = "List")]
+        public IActionResult List(int? id)
+        {
+            if (id == null) 
+            {
+                return NotFound();
+            }
+            var list = _context.PostMenus
+                .Where(m => (m.MenuID == id) && (m.IsActive == true))
+                .Take(6).ToList();
+
+            if (list == null) 
+            {
+                return NotFound();
+            }
+            return View(list);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
